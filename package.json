@@ -1,0 +1,7 @@
+{
+    "name": "PuppeteerTest",
+    "version": "1.0.0",
+    "dependencies": {
+      "puppeteer": "^24.6.0"
+    }
+  }
